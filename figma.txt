@@ -1,0 +1,26 @@
+
+
+
+￼
+gopi
+(5:37 AM) hi
+
+
+
+
+￼
+Priya
+(5:37 AM) https://www.figma.com/file/bT7z01lJ2nm2os587K2e4D/UBF-Ecommerce-website?type=design&node-id=0-1&mode=design&t=yMSDFxgDXL8P3gtw-0
+
+
+echo "# e-commerce-admin-panel-react" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/gopi1849010007/e-commerce-admin-panel-react.git
+  git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/gopi1849010007/e-commerce-admin-panel-react.git
+  git branch -M main
+  git push -u origin main
